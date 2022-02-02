@@ -17,3 +17,12 @@ Instale o app do Expo em seu dispositivo
 
 Android: Escaneie o QR Code
 IOS: Use o link criado no Cmd
+
+
+Usando o Snack (ferramenta do Expo)[https://snack.expo.dev/]
+
+
+Não usando o Expo
+
+react-native init [nome do projeto] no cmd
+
